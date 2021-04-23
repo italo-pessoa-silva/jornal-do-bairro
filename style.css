@@ -1,0 +1,57 @@
+body{background-color: cyan
+}
+
+h1#texto{text-align: center;
+background-color: cadetblue;}
+
+
+header{background-color: cadetblue;}
+
+nav ul{list-style-type: none;
+display: flex;
+flex-direction: row;
+padding:0 ;
+box-sizing: border-box;
+width: 100%;
+justify-content: space-around;
+}
+
+
+
+#baixo{text-align: center;
+background-color: cadetblue;
+font-family: cursive;}
+
+headerh1{text-align: center;}
+
+img{width: 25%;
+    height: 25%;
+    margin: 0em;
+
+}
+
+#sprt{
+text-align: center;
+}
+
+h2{
+margin: 30px;
+}
+img{
+margin: 30px;
+}
+ 
+
+h3{
+text-emphasis: none;
+}
+
+
+
+
+h1#texto:hover{
+    color: blue;
+    transition: font-size 2s ease 0s;ss
+}
+
+
